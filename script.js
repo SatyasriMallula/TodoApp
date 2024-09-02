@@ -45,7 +45,7 @@ let quizdata = [{
     "B": "senior",
     "C": "freshman ",
     "D": "junior ",
-    "answer": "A"
+    "answer": "B"
 }]
 
 let currentquetion = 0;
