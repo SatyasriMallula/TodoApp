@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fdcee1;
+  color: white;
+}
+#container {
+  background-color: rgb(8, 123, 161);
+  width: 40%;
+  height: auto;
+  margin-top: 10%;
+  margin-left: 25%;
+  margin-right: 20%;
+  padding: 50px;
+  padding-bottom: auto;
+  border-radius: 25px;
+}
+#task {
+  width: 75%;
+  padding: 10px;
+  border: 2px solid rgb(188, 29, 103);
+}
+#add {
+  padding: 11px;
+  border: white;
+  color: white;
+  cursor: pointer;
+  background-color: rgb(188, 29, 103);
+}
+.remove {
+  margin-top: 13px;
+  float: right;
+  clear: both;
+  padding-right: 20px;
+  border-radius: 15px;
+  width: 60px;
+  height: 20px;
+  border-style: none;
+  background-color: rgb(188, 29, 103);
+}
+ul {
+  list-style: none;
+  text-align: left;
+  line-height: 35px;
+}
